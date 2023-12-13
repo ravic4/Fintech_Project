@@ -254,14 +254,14 @@ As you research your company, you may find these types resources to be useful:
 * The report style showcases the writer's expertise and builds credibility. (10 points)
 
 
-# Company: Mercado Libre (NASDAQ: MELI)
+# **Company: Mercado Libre (NASDAQ: MELI)**
 
-## Company information: 
+## **Company information:**
 
 ##### Mercado Libre (NASDAQ: MELI) is a diversified e-commerce giant that operates across the LATAM geography. The firm operates the following subsidiaries: Ecommerce, Logistics, Ads, Fintech (Mercado Pago), and Credit. The key focus on this report is to examine the firm's Fintech and Credit solutions, and how they compliment the other businesses lines that the firm operates. 
 <br>
 
-## Background & Founder Information: 
+## **Background & Founder Information:**
 #### Mercado Libre was founded by three Stanford University graduates in 1999: Marcos Galperin, Hernan Kazah, and Stello Tolda [Stanford Business School](https://www.gsb.stanford.edu/faculty-research/case-studies/rise-mercado-libre), [Stanford Insights](https://www.gsb.stanford.edu/insights/mercado-libre-founders-it-takes-patience-resilience). The founders met at Stanford Business School, and launched operations in 2000. The firm eventually listed on the NASDAQ exchange in 2007, and has been profitable since then. Prior to the IPO, in 2006 the firm reported $52 MM in sales and net profit of $1.1 mm (2% net profit margin) [Stanford Business School](https://www.gsb.stanford.edu/faculty-research/case-studies/rise-mercado-libre). 
 <br>
 
@@ -275,18 +275,76 @@ As you research your company, you may find these types resources to be useful:
 #### Mercado Pago (their Fintech subsidiary) was "born in 2003" with the goal of democraticizing access to financial services in LATAM. The products aim to help "merchants and individuals" have a more intimate and smoother financial transaction experience. For merchants, Mercado Pago provides "MPOS Devices" to help make safe transactions (can be used in stores or taxi-cabs). 
 <br>
 
-| Mercado Pago features  | Description |
+| Mercado Pago features | Description |
 | ------------ | ------------------------------------------ |
-| Credit       |  Access to "Remunerated Account with immediate liquidity" [Mercado Pago Video, 1:37](https://youtu.be/VzNmhm8n03U). Providing users with immediate capital should they need it. 
-| Online & Offline Payments | Providing seamless checkout integration and provides flexibility for buyers to transact at their convenence.
+| Credit       |  Access to "Remunerated Account with immediate liquidity". Providing users with immediate capital should they need it. 
+| Online & Offline Payments | Providing seamless checkout integration and provides flexibility for buyers to transact at their convenence. 
 | Savings and Investments | Providing users access to investments, cryptocurrencies, and investment funds
-| Insurance | Features to provide users with "Life, Card, and Accident Insurance" [Mercado Pago Video, 1:43](https://youtu.be/VzNmhm8n03U)
-##### *Figure 1 (table above): Mercado Pago at a glance*
+| Insurance | Features to provide users with "Life, Card, and Accident Insurance" 
+##### *Table 1 (above): Mercado Pago at a glance, source: [Mercado Pago Video](https://youtu.be/VzNmhm8n03U)*
 <br>
 
 ### **Mercado Libre Credit Subsidary:** 
-#### Mercado Libre credit line offers customers (both businesses and people) access to cash. For Mercado Libre, 
+#### Mercado Libre credit line offers customers (both businesses and people) access to cash. 
+<br>
 
+| Mercado Libre for Businesses | Description |
+| -------------------- | ----------- |
+| Credit lines | Ability for businesses to gain access to credit for working capital needs. Only available for Mercado Libre partners. 
+| Loans | Businesses that sell on Mercado Libre can borrow, and paydown the interest and principal based on items sold on Mercado Libre's website, thereby reducing the risk of default. 
+##### * Table 2: Mercado Credit lines for businesses, source: [Mercado Libre Annual Report 2022](https://s3.amazonaws.com/sec.irpass.cc/2831/0001099590-23-000007.pdf)
+<br>
+
+#### Mercado Libre helps democratize finance for small businesses helping underserved businesses that can't traditionally get loans from traditional financial institutions. Using machine learning, Mercado Libre has a better understanding of where capital is being moved and from within their system, thus, reducing risk for Mercado Libre to provide loans. 
+<br>
+
+| Mercado Libre Credit for Individuals | Description | 
+| ------------------------------------ | ----------- | 
+| Mercado Libre Credit card | Established in 2021, the credit card enables users to buy on and off platform, furthermore, users can collect points through rewards programs | 
+##### *Table 3: Mercado Libre for Individuals, source: [Mercado Libre Annual Report 2022](https://s3.amazonaws.com/sec.irpass.cc/2831/0001099590-23-000007.pdf)*
+
+<br>
+
+
+* What specific financial problem is the company or project trying to solve? The company aims to solve the following problem: 
+​
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+​
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+​
+
+## **Mercado Libre Target Market, Technology, Competitors**
+### **Target Market, and Product Need**
+#### Mercado libre aims to help "democraticize finance" in the Latin America region. The population it serves is 650 million. According to the Inter American Development Bank, in LATAM, *"27% of adults do not have access to financial services"* [Inter-American Development Bank](https://www.iadb.org/en/news/regulations-and-institutional-capacity-needed-advance-open-finance-latin-america-and-caribbean#:~:text=According%20to%20the%20World%20Bank%27s,average%20for%20OECD%20member%20countries.). Furthermore, they found that the percent of adults **"borrowing from financial institutions is 30%, below the average for OECD member countries, lastly, financing gap for micro, small and medium sized enterprises is 35% of the regional GDP"* [Inter-American Development Bank](https://www.iadb.org/en/news/regulations-and-institutional-capacity-needed-advance-open-finance-latin-america-and-caribbean#:~:text=According%20to%20the%20World%20Bank%27s,average%20for%20OECD%20member%20countries.). This shows the need for Fintech products to help bring access to SME's and individuals, to both interact with SME's and for their personal savings. 
+#### Mercado Libre's competitive strategy is its ability to provide users an ecosystem to both store and spend cash. It's ecommerce offerings provide an outlet for people to spend on money through, while its fintech platform assures that customers keep money with the firm. Mercado libre goes beyond a traditional ecommerce firm, and as a result it has high and growing economic moats. As a result, in November 2023, the firm reported 49 million users that use its Fintech product [Fintech Nexus](https://www.fintechnexus.com/mercado-libres-q3-profit-soars-on-strong-commerce-in-mexico-fintech-growth/). It's competitors such as: Amazon.com.mx or companies such as: UnDosTres only provide one service well (ecommerce for Amazon or Fintech for UnDosTres). By contrast, Mercado Libre benefits from a funnel of users ordering items through ecommerce platforms, and this allows the firm to explore Fintech options to help customers order online [UnDosTres](https://undostres.com.mx). 
+<br>
+
+### **Technologies Implemented**
+#### Mercado Libre uses Amazon Web Services cloud services to help its users make seamless transactoins. The firm uses solutions such as *"Amazon SagemMaker, Amazon Simple Storage Service and Amazon Elastic Compute Cloud"* [AWS](https://aws.amazon.com/solutions/case-studies/mercadolibreml/). 
+#### The table below shows a deeper look into what each service does. 
+<br>
+
+| Amazon Service | Description | 
+| ------------| -----------|
+Amazon Sage Maker | Amazon Sage maker provides developers to *"Build, train, and deploy ML models with infrastructure & tools"*. Builders can use *"no code interfaces"* in addition to help deploy technologies rapidly and for any skill level [Amazon Sage Maker](https://aws.amazon.com/sagemaker/). 
+Amazon S3 | Amazon S3 enables firms to *store and protect any amount of data* [Amazon S3](https://aws.amazon.com/s3/). This allows a firm such as Mercado Libre to protect the data it has on its users (especially financial information)
+Amazon Elastic Compute Cloud (EC2) | Amazon Elastic Compute Cloud enables Mercado Libre to host data on the cloud and enable developers to run applications and software [Amazon EC2](https://aws.amazon.com/solutions/case-studies/mercadolibre-ec2/). 
+
+#### The languages that developers on Mercado Libre use include the following 
+| Segment | Services | 
+| ------- | -------- |
+| Application & Data | Node.js, React, Java, SQL, NGINX, GraphQL, Spring Boot, Golang, Kotlin, Amazon DynamoDB, Memcached, Cassandara, Clojure, Apache Pulsar, Undertow 
+ 
+
+
+
+
+
+
+<br>
+<br>
+<br>
 <br>
 
 #### Source: [Creating tables in Markdown](https://markdown.land/markdown-table)
