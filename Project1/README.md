@@ -3,7 +3,7 @@
 
 ## **Company information:**
 
-#### Mercado Libre (NASDAQ: MELI) is a diversified e-commerce giant that operates across the LATAM geography. The firm operates the following subsidiaries: Ecommerce, Logistics, Ads, Fintech (Mercado Pago), and Credit. The key focus on this report is to examine the firm's Fintech and Credit solutions, and how they compliment the other businesses lines that the firm operates. 
+#### Mercado Libre (NASDAQ: MELI) is a diversified e-commerce giant that operates across the Latin America (LATAM) geography. The firm operates the following subsidiaries: Ecommerce, Logistics, Ads, Fintech (Mercado Pago), and Credit. The key focus on this report is to examine the firm's Fintech and Credit solutions and how they complement the other businesses lines that the firm operates. 
 <br>
 
 ## **Background & Founder Info:**
@@ -18,15 +18,15 @@ ________________________________________________________________________________
 ### **Mercado Pago (Fintech) Subsidiary:** 
 
 
-#### Mercado Pago (their Fintech subsidiary) was founded in 2003 with the goal of democraticizing access to financial services in LATAM [Mercado Pago](https://youtu.be/VzNmhm8n03U). The products aim to help "merchants and individuals" have a more intimate and smoother financial transaction experience. For merchants, Mercado Pago provides "MPOS Devices" to help make safe transactions. 
+#### Mercado Pago (their Fintech subsidiary) was founded in 2003 with the goal of democraticizing access to financial services in LATAM [Mercado Pago](https://youtu.be/VzNmhm8n03U). The products aim to help merchants and individuals have a more intimate and smoother financial transaction experience. For merchants, Mercado Pago provides mobile point of sale (MPOS) devices to help make safe transactions. 
 <br>
 
 | Mercado Pago products | Description |
 | ------------ | ------------------------------------------ |
-| Credit       |  Access to "Remunerated Account with immediate liquidity". Providing users with immediate capital should they need it. 
-| Online & Offline Payments | Providing seamless checkout integration and provides flexibility for buyers to transact at their convenence. 
+| Credit       |  Access to *"Remunerated Account with immediate liquidity"*. Providing users with immediate capital should they need it. 
+| Online & Offline Payments | Providing seamless checkout integration and provides flexibility for buyers to transact at their convenience. 
 | Savings and Investments | Providing users access to investments, cryptocurrencies, and investment funds
-| Insurance | Features to provide users with "Life, Card, and Accident Insurance" 
+| Insurance | Features to provide users with *"Life, Card, and Accident Insurance"*
 ##### *Table 1 (above): Mercado Pago at a glance, source: [Mercado Pago](https://youtu.be/VzNmhm8n03U)*
 <br>
 
@@ -41,7 +41,7 @@ ________________________________________________________________________________
 ##### *Table 2: Mercado Credit lines for businesses, source: [Mercado Libre Annual Report 2022](https://s3.amazonaws.com/sec.irpass.cc/2831/0001099590-23-000007.pdf)*
 <br>
 
-#### Mercado Libre helps democratize finance for small businesses. They help underserved businesses on their platform that can't traditionally get loans from traditional financial institutions. Using machine learning, Mercado Libre has a better understanding of where capital is being moved and from within their system, thus, reducing risk for Mercado Libre to provide loans. 
+#### Mercado Libre helps democratizing finance for small businesses. They help underserved businesses on their platform that can't traditionally get loans from traditional financial institutions. Using machine learning, Mercado Libre has a better understanding of where capital is being moved and from within their system, thus, reducing risk for Mercado Libre to provide loans. 
 <br>
 
 | Mercado Libre Credit for Individuals | Description | 
@@ -54,7 +54,7 @@ ________________________________________________________________________________
 
 
 ## **Mercado Libre Target Market, Technology, Competitors:**
-### **Target Market, and Product Need**
+### **Target Market, and Product Needs**
 #### Mercado libre aims to help "democraticize finance" in the Latin America region. The population it serves is 650 million. According to the Inter American Development Bank, in LATAM, *"27% of adults do not have access to financial services"* [Inter-American Development Bank](https://www.iadb.org/en/news/regulations-and-institutional-capacity-needed-advance-open-finance-latin-america-and-caribbean#:~:text=According%20to%20the%20World%20Bank%27s,average%20for%20OECD%20member%20countries.). Furthermore, they found that the percent of adults *"borrowing from financial institutions is 30%, below the average for OECD member countries, lastly, financing gap for micro, small and medium sized enterprises is 35% of the regional GDP"* [Inter-American Development Bank](https://www.iadb.org/en/news/regulations-and-institutional-capacity-needed-advance-open-finance-latin-america-and-caribbean#:~:text=According%20to%20the%20World%20Bank%27s,average%20for%20OECD%20member%20countries.). This shows the need for Fintech products to help bring access to SME's and individuals, to both interact with SME's and for their personal savings. 
 <br>
 
@@ -98,15 +98,15 @@ Fintech Product Sales | $4,729 mm | 45%
 |**Total Sales** |**$10,537 mm**| **100%** 
 
 ##### *Table 5: Segment breakdown for Mercado Libre FY2022, source: [Mercado libre 2022 Annual Report](https://s3.amazonaws.com/sec.irpass.cc/2831/0001099590-23-000007.pdf)*
-#### Due to Mercado Libre's ecommerce synergies, it sits in between as a Fintech solutions giant and a ecommerce company. It provides loans, working capital needs, and credit-cards to both businesses and individuals. It competes with regional and international banks. This is the domain that Mercado Libre sits in (or in this case, the subsidiary: Mercado Pago sits in). It competes with both diversified ecommmerce giants such as Amazon.com and major banks in LATAM such as: Itau Unibanco Holdings [Investopedia Largest Banks in LATAM](https://www.investopedia.com/articles/investing/111314/10-biggest-latin-american-banks.asp). 
+#### Due to Mercado Libre's ecommerce synergies, it sits in between as a Fintech solutions giant and an ecommerce company. It provides loans, working capital needs, and credit-cards to both businesses and individuals. It competes with regional and international banks. This is the domain that Mercado Libre sits in (or in this case, the subsidiary: Mercado Pago sits in). It competes with both diversified ecommmerce giants such as Amazon.com and major banks in LATAM such as: Itau Unibanco Holdings [Investopedia Largest Banks in LATAM](https://www.investopedia.com/articles/investing/111314/10-biggest-latin-american-banks.asp). 
 <br>
 
 ### **Trends between 2010-2023**
-#### Since 2013, the major trends and innovation in Fintech has been the adoption of mobile phones. Mobile phones offer companies direct access to customers. The growth of Fintech was bolstered by the smartphone revolution. According to Esade Ramon Llull University, *"There has been a substatial increase in access to financial services during the last 10 - 15 years thanks to the prevalence of smartphones"* [dobetter.esade.edu](https://dobetter.esade.edu/en/fintech-revolution). Over the past 10 years, major trends in this sector which have driven fintech are: declining storage costs for data. In 2010, $0.06 USD per GB, today that value is $0.02 [BIS.org](https://www.bis.org/publ/bppdf/bispap117.pdf). Furthermore, the size of this data has increased from ~1 Zetabyte in 2010 to over 50 Zetabytes in 2020 [BIS.org](https://www.bis.org/publ/bppdf/bispap117.pdf). The low cost and accumulation of data has fostered the creation of software to help sift through and analyze this data, and for Fintech, driven by smartphone penetration, this has allowed firms such as Mercado Libre to tap into these ever growing trends and gather all forms of data. Data that benefits Fintech firms include: location, spending habits and history, contact information from social-media. These have helped comapnies create more creative identities and more individualized Fintech products. 
+#### Since 2013, the major trends and innovation in Fintech has been the adoption of mobile phones. Mobile phones offer companies direct access to customers. The growth of Fintech was bolstered by the smartphone revolution. According to Esade Ramon Llull University, *"There has been a substatial increase in access to financial services during the last 10 - 15 years thanks to the prevalence of smartphones"* [dobetter.esade.edu](https://dobetter.esade.edu/en/fintech-revolution). Over the past 10 years, major trends in this sector which have driven fintech are: declining storage costs for data. In 2010, $0.06 USD per GB, today that value is $0.02 [BIS.org](https://www.bis.org/publ/bppdf/bispap117.pdf). Furthermore, the size of this data has increased from ~1 Zetabyte in 2010 to over 50 Zetabytes in 2020 [BIS.org](https://www.bis.org/publ/bppdf/bispap117.pdf). The low cost and accumulation of data has fostered the creation of software to help sift through and analyze this data, and for Fintech, driven by smartphone penetration, this has allowed firms such as Mercado Libre to tap into these ever growing trends and gather all forms of data. Data that benefits Fintech firms include location, spending habits and history, contact information from social-media. These have helped comapnies create more creative identities and more individualized Fintech products. 
 <br>
 
 ### **Major Companies in Fintech Space**
-#### The major companies by revenue in the Fintech space are: Stripe, Block (Square), Alibaba (Ali-Pay), PayPal. Block, Alibaba (Alipay), and PayPal are listed on public equities exchanges. These are the major firms that compete on a global space, with Square operating in the West and Alibaba (Alipay) operating in predominantly Asia. 
+#### The major companies by revenue in the Fintech space are Stripe, Block (Square), Alibaba (Ali-Pay), PayPal. Block, Alibaba (Alipay), and PayPal are listed on public equities exchanges. These are the major firms that compete on a global space, with Square operating in the West and Alibaba (Alipay) operating in predominantly Asia. 
 <br>
 ___________________________________________________________________________________________________________
 
@@ -144,7 +144,7 @@ ________________________________________________________________________________
 
 ## **Recommendations for Mercado Libre going into 2030** 
 ### **Expansion into the USA**
-#### For Mercado Libre to truly become a power house and draw in users for Fintech, it should continue to expand its operations into the United States of America and serve the hispnic community. According to US Department of Health, the Hispanic/Latino community represents 18.9% of the US Population [Minority Health](https://minorityhealth.hhs.gov/hispaniclatino-health#:~:text=According%20to%202020%20Census%20data,the%20largest%20at%2061.6%20percent.). Mercado Libre could act as a bridge between LATAM and USA and foster the ecommerce transactions across americas. It's Fintech business and ecommerce synergies would entice SME's to hop on to Mercado Libre's fintech services and further strengthen Mercado Libre's competitive moat. 
+#### For Mercado Libre to truly become a powerhouse and draw in users for Fintech, it should continue to expand its operations into the United States of America and serve the hispnic community. According to US Department of Health, the Hispanic/Latino community represents 18.9% of the US Population [Minority Health](https://minorityhealth.hhs.gov/hispaniclatino-health#:~:text=According%20to%202020%20Census%20data,the%20largest%20at%2061.6%20percent.). Mercado Libre could act as a bridge between LATAM and USA and foster the ecommerce transactions across americas. It's Fintech business and ecommerce synergies would entice SME's to hop on to Mercado Libre's fintech services and further strengthen Mercado Libre's competitive moat. 
 <br>
 
 ### **Real-Estate Loans**
@@ -157,11 +157,11 @@ ________________________________________________________________________________
 | ----------- | -------------------------- | 
 | Land and property registries | Land registery based on blockchain would allow for absolute transparency in land & property titles, and reduce the risk of fraud. 
 | Investor/tenant information | Because of blockchain's transparency, landlords could know the exact identity of their tenants, and due to blockchain's record-keeping technology, it would reduce the risk of miscommunication between tenants and landlords. 
-| Transaction tracking & due dilligence | Blockchain technology makes it easy for homeowners to prove ownership and allow for potential buyers to understand who were the previous tenants were. This could greatly reduce fraud as tenant information is stored. 
+| Transaction tracking & due dilligence | Blockchain technology makes it easy for homeowners to prove ownership and allow for potential buyers to understand who the previous tenants are. This could greatly reduce fraud as tenant information is stored. 
 | Seamless transactions | Through blockchain technology, cryptocurrencies could be used as a transaction tool between buyers and sellers, reducing the need for a "bank" as all paperwork would be tracked online | 
 | Investors have more flexibility | Since all information is tracked on the blockchain, it would make it seamless for homeowners to build out more accurate financial models. With Mercado Libre's vast knowledge of people's payment information, financial models could be created with greater accuracy and provide investors the tools to understand the potential income from the property. 
 ##### *Table 9: How blockchain could benefit Mercado Libre, source: [Casper.network](https://casper.network/en-us/web3/blockchain/use-cases/real-estate/#)*
-#### These technologies are important for my solution as they democratize real-estate for homeowners by reducing beuracracy that usually would be involved when buying a home. Furthermore, it would also reduce any form of racial bias as people would be provided loans based on their ability to pay (as the blockchain would store that information). This technology could be carried over to Mercado Libre's ecommerce line by providing real-receipt between buyers and sellers and cutout fraud entirely. 
+#### These technologies are important for my solution as they democratize real-estate for homeowners by reducing bureaucracy that usually would be involved when buying a home. Furthermore, it would also reduce any form of racial bias as people would be provided loans based on their ability to pay (as the blockchain would store that information). This technology could be carried over to Mercado Libre's ecommerce line by providing real receipt between buyers and sellers and cutout fraud entirely. 
 <br>
 
 ### Sources for formatting: 
